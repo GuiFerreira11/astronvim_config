@@ -1,6 +1,4 @@
-# AstroNvim User Configuration Example
-
-A personal configuration for [AstroNvim](https://astronvim.com/)
+# A personal configuration for [AstroNvim](https://astronvim.com/)
 
 ## 🛠️ Installation
 
